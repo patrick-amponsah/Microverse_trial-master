@@ -79,11 +79,11 @@ Clone this repository to your desired folder:
 
 
 
-👤 **Batool Fatima**
+👤 **Patrick Amponsah**
 
-- GitHub: [@githubhandle](https://github.com/batoolfatima2135)
-- Twitter: [@twitterhandle](https://twitter.com/batool2135)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/batool-fatima-515531196/)
+- GitHub: [@githubhandle](https:https://github.com/patrick-amponsah)
+- Twitter: [@twitterhandle](https://twitter.com/@esseltricky)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/patrick-amponsah-67483a270/)
 
 
 
