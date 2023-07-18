@@ -68,7 +68,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone https://github.com/batoolfatima2135/Microverse_trial.git
+  git clone https:https://github.com/patrick-amponsah/Microverse_trial.git
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
